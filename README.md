@@ -45,15 +45,6 @@ Currently mastering **Swift**, **SwiftUI** and building my first serious project
 
 <br/>
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <!-- Замени 'ТВОЙ_НИКНЕЙМ' на твой реальный ник на github в двух ссылках ниже! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=avetis-dev&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avetis-dev&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br/>
 
 <div align="center">
   <i>"The only way to do great work is to love what you do." – Steve Jobs</i>
